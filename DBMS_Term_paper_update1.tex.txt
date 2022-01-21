@@ -1,0 +1,21 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+
+\title{TERM PAPER\\ DATABASE MANAGEMENT SYSTEMS}
+\author{Topic- DBMS as a cloud service\\ Name - Prabhav Gautam\\ Roll Number - 19111039\\ Semester- 5th\\ Branch- Biomedical Engineering}
+\date{January 21, 2022}
+
+
+
+\begin{document}
+
+\maketitle
+
+\section{Abstract}
+
+The service which enables us to use computing as a service across a product is known as cloud computing. Nowadays the cloud computing paradigm has been receiving significant excitement and attention in technological sphere. Cloud computing shares different resources and information between different devices which are located in different places always based on internet connection. According to this, a cloud DBMS is a database management system which acts through cloud computing. 
+
+
+
+
+\end{document}
